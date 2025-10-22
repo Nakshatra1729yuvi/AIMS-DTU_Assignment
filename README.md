@@ -72,7 +72,7 @@ This is a personal assignment repository, but suggestions and discussions are we
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## 👥 Contact
 
